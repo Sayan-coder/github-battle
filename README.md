@@ -2,7 +2,7 @@
 
 # Day 1:
 
-It was about understanding the problem and then proceeding with the design framework of how our application will be visible to the users. We too added the various repositories and made our code ready for the further proceedings
+It was about understanding the problem and then proceeding with the design of how our application will look to the users. We too added the various repositories and made our code ready for the further proceedings
 
 # Day 2:
 
